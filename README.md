@@ -1,3 +1,3 @@
-# Machine-learning
+# Machine_learning
 Дьякова Елизавета Владиславовна 
 Номер ИСУ: 506999

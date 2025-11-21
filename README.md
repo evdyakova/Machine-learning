@@ -1,2 +1,3 @@
 # Machine-learning
-Machine learning course
+Дьякова Елизавета Владиславовна 
+Номер ИСУ: 506999
